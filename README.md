@@ -51,7 +51,7 @@ An advanced autonomous agent system that continuously trains and improves a Hier
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd hrm_autonomous_agent
+cd Auto-HRM
 
 # Create virtual environment
 python -m venv venv
