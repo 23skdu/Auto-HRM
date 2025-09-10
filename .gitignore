@@ -1,0 +1,4 @@
+*.pt
+
+# Ignore all checkpoint files
+checkpoints/*.pt
