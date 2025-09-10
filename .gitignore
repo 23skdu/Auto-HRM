@@ -2,3 +2,5 @@
 
 # Ignore all checkpoint files
 checkpoints/*.pt
+.DS_Store
+*.log
