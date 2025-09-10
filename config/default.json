@@ -1,0 +1,18 @@
+{
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "num_epochs": 3,
+  "max_training_time": 24,
+  "performance_threshold": 0.85,
+  "mixed_precision": true,
+  "d_model": 512,
+  "n_heads": 8,
+  "d_ff": 2048,
+  "dropout": 0.1,
+  "halt_max_steps": 8,
+  "ponder_weight": 0.01,
+  "num_tools": 100,
+  "checkpoint_path": null,
+  "data_dir": "data",
+  "output_dir": "outputs"
+}
